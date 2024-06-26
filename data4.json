@@ -96,70 +96,6 @@
         "adsMs": true
     },
     {
-        "id": 118,
-        "name": "Doyoung",
-        "avatar": [
-            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/doyoung.webp",
-            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/doyoung.webp",
-            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/doyoung.webp"
-        ],
-        "video": [
-            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/3922596544635245"
-        ],
-        "messenger": "We believe that music can change the world. We want to use our music to spread love and positivity.",
-        "isCelebrity": true,
-        "adsVc": true,
-        "adsMs": true
-    },
-    {
-        "id": 119,
-        "name": "jeahyun",
-        "avatar": [
-            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/jeahyun.webp",
-            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/jeahyun.webp",
-            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/jeahyun.webp"
-        ],
-        "video": [
-            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/1506356389960368"
-        ],
-        "messenger": "Our dream is to become the biggest boy band in the world. We want to share our music with as many people as possible.",
-        "isCelebrity": true,
-        "adsVc": true,
-        "adsMs": true
-    },
-    {
-        "id": 120,
-        "name": "Joy",
-        "avatar": [
-            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/joy.webp",
-            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/joy.webp",
-            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/joy.webp"
-        ],
-        "video": [
-            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/794590112761623"
-        ],
-        "messenger": "Love yourself first. You can’t love others if you don’t love yourself.",
-        "isCelebrity": true,
-        "adsVc": true,
-        "adsMs": true
-    },
-    {
-        "id": 121,
-        "name": "Kangseulgi",
-        "avatar": [
-            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/kangseulgi.webp",
-            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/kangseulgi.webp",
-            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/kangseulgi.webp"
-        ],
-        "video": [
-            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/480254641037559"
-        ],
-        "messenger": "The only way to see the light is to first embrace the darkness.",
-        "isCelebrity": true,
-        "adsVc": true,
-        "adsMs": true
-    },
-    {
         "id": 122,
         "name": "Leeminho",
         "avatar": [
@@ -176,38 +112,6 @@
         "adsMs": true
     },
     {
-        "id": 123,
-        "name": "Yeji",
-        "avatar": [
-            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/yeji.webp",
-            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/yeji.webp",
-            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/yeji.webp"
-        ],
-        "video": [
-            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/816941373390186"
-        ],
-        "messenger": "Believe in yourself and never give up.",
-        "isCelebrity": true,
-        "adsVc": true,
-        "adsMs": true
-    },
-    {
-        "id": 124,
-        "name": "Mina",
-        "avatar": [
-            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Mina.webp",
-            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Mina.webp",
-            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Mina.webp"
-        ],
-        "video": [
-            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/1004258937774265"
-        ],
-        "messenger": "If you work hard, you can achieve anything.",
-        "isCelebrity": true,
-        "adsVc": false,
-        "adsMs": false
-    },
-    {
         "id": 125,
         "name": "Mark Melody",
         "avatar": [
@@ -221,86 +125,6 @@
         "messenger": "Music is a universal language that can touch everyone's heart.",
         "isCelebrity": true,
         "adsVc": true,
-        "adsMs": true
-    },
-    {
-        "id": 126,
-        "name": "Shua",
-        "avatar": [
-            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Shua.webp",
-            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Shua.webp",
-            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Shua.webp"
-        ],
-        "video": [
-            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/1004875454364246"
-        ],
-        "messenger": "No matter what people say, we'll keep going our own way.",
-        "isCelebrity": true,
-        "adsVc": true,
-        "adsMs": true
-    },
-    {
-        "id": 127,
-        "name": "Boo",
-        "avatar": [
-            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Boo.webp",
-            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Boo.webp",
-            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Boo.webp"
-        ],
-        "video": [
-            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/757886389884841"
-        ],
-        "messenger": "The only way to learn is to do it.",
-        "isCelebrity": true,
-        "adsVc": true,
-        "adsMs": true
-    },
-    {
-        "id": 128,
-        "name": "Miani",
-        "avatar": [
-            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Miani.webp",
-            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Miani.webp",
-            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Miani.webp"
-        ],
-        "video": [
-            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/984727083269078"
-        ],
-        "messenger": "We want to make music that can heal people.",
-        "isCelebrity": true,
-        "adsVc": true,
-        "adsMs": true
-    },
-    {
-        "id": 129,
-        "name": "Chaeunwoo",
-        "avatar": [
-            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Chaeunwoo.webp",
-            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Chaeunwoo.webp",
-            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Chaeunwoo.webp"
-        ],
-        "video": [
-            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/3762301120697760"
-        ],
-        "messenger": "We want to be the best artists we can be.",
-        "isCelebrity": true,
-        "adsVc": false,
-        "adsMs": false
-    },
-    {
-        "id": 130,
-        "name": "SB19",
-        "avatar": [
-            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/SB19.webp",
-            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/SB19.webp",
-            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/SB19.webp"
-        ],
-        "video": [
-            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/1016230823398509"
-        ],
-        "messenger": "The only thing that matters is that you're happy.",
-        "isCelebrity": true,
-        "adsVc": false,
         "adsMs": true
     },
     {
