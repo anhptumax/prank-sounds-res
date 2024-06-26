@@ -1,0 +1,401 @@
+[
+    {
+        "id": 100,
+        "name": "Kim Jong-un",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Kim Jong-un.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Kim Jong-un.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Kim Jong-un.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Kim Jong-un.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/447288448052770"
+        ],
+        "messenger": "Be strong and focused",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 101,
+        "name": "Elon Musk",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Elon Musk.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Elon Musk.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Elon Musk.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Elon Musk.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/856297846343661"
+        ],
+        "messenger": "I want to spend a lot of money.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 102,
+        "name": "Vladimir Vladimirovich Putin",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Putin.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Putin.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Putin.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Putin.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/961097265795820"
+        ],
+        "messenger": "Be persistent and know how to seize opportunities.",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 103,
+        "name": "Spider Man",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Spider Man.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Spider Man.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Spider Man.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Spider Man.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/477253988116917"
+        ],
+        "messenger": "With great power comes great responsibility.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 104,
+        "name": "Lisa",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Lisa.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Lisa.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Lisa.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Lisa.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/1151494145973122"
+        ],
+        "messenger": "I always try my best to show my best self on stage. I want to give fans energetic performances and make them feel happy.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 105,
+        "name": "Rosé",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Rose.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Rose.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Rose.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Rose.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/7611534865634667"
+        ],
+        "messenger": "I think the most important thing for an artist is to have a sincere heart and love music.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 122,
+        "name": "Leeminho",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/leeminho.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/leeminho.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/leeminho.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/leeminho.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/1028554872170076"
+        ],
+        "messenger": "We are so grateful for your love and support..",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 125,
+        "name": "Mark Melody",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Mark Melody.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Mark Melody.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Mark Melody.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Mark Melody.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/461762189675835"
+        ],
+        "messenger": "Music is a universal language that can touch everyone's heart.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 131,
+        "name": "Jimin",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Jimin.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Jimin.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Jimin.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Jimin.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/1107956950269363"
+        ],
+        "messenger": "I am so grateful that all of you love us. We are happy because of you, and we can work harder because of you. I love you!",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 132,
+        "name": "Biden",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Biden.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Biden.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Biden.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Biden.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/842930684366213"
+        ],
+        "messenger": "Pressure creates diamonds.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 18,
+        "name": "Best Friend",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Best Friend.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Best Friend.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Best Friend.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Best Friend.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/492223473146297"
+        ],
+        "messenger": "We all have demons. But what matters is how we handle them.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 19,
+        "name": "Billie Eilish",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Billie Eilish.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Billie Eilish.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Billie Eilish.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Billie Eilish.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/337235989418098"
+        ],
+        "messenger": "I'm not afraid to be different. I don't care what others think of me. I'm just here to be myself.",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": true
+    },
+    {
+        "id": 20,
+        "name": "Boyfriend",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Boyfriend.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Boyfriend.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Boyfriend.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Boyfriend.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/454025357229126"
+        ],
+        "messenger": "Don't let people tell you who you are. Tell them.",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 21,
+        "name": "Daisy",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Daisy.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Daisy.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Daisy.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Daisy.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/473218021924466"
+        ],
+        "messenger": "I'm not trying to be someone I'm not. I'm just trying to be me.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 22,
+        "name": "Friends",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Friends.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Friends.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Friends.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Friends.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/765772739081246"
+        ],
+        "messenger": "It would be great if you could talk to me",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 23,
+        "name": "Gibi",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Gibi.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Gibi.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Gibi.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Gibi.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/1389166338413171"
+        ],
+        "messenger": "How are you today?",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 24,
+        "name": "Girl Friend",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Girl Friend.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Girl Friend.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Girl Friend.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Girl Friend.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/772554254709239"
+        ],
+        "messenger": "What are you doing?",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 25,
+        "name": "Justin Bieber",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Justin Bieber.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Justin Bieber.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Justin Bieber.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Justin Bieber.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/7652263434828507"
+        ],
+        "messenger": "Never say never.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 26,
+        "name": "Manipulative Mandy 2",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Manipulative Mandy 2.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Manipulative Mandy 2.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Manipulative Mandy 2.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Manipulative Mandy 2.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/317991898020825"
+        ],
+        "messenger": "Helping you makes me feel happy.",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": true
+    },
+    {
+        "id": 27,
+        "name": "Manipulative Mandy",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Manipulative Mandy.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Manipulative Mandy.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Manipulative Mandy.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Manipulative Mandy.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/746314007440605"
+        ],
+        "messenger": "You need help, talk to me.",
+        "isCelebrity": true,
+        "adsVc": true,
+        "adsMs": true
+    },
+    {
+        "id": 28,
+        "name": "Needy Girlfriend",
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Needy Girlfriend.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Needy Girlfriend.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Needy Girlfriend.webp"
+        ],
+        "videoGit": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Needy Girlfriend.mp4"
+        ],
+        "videoFb": [
+            "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/437742392545269"
+        ],
+        "messenger": "Friend!!!…please talk to me.",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    }
+]
