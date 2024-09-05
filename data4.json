@@ -334,5 +334,19 @@
         "video": [
             "https://www.facebook.com/61561103482079/videos/pcb.122093741414370116/437742392545269"
         ]
+    },
+    {
+        "adsMs": false,
+        "adsVc": false,
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/wokong1.png"
+        ],
+        "id": 29,
+        "isCelebrity": true,
+        "messenger": "Black Myth: Wukong",
+        "name": "Wukong",
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/wokong1.mp4"
+        ]
     }
 ]
