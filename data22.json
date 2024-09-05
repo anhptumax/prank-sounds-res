@@ -334,5 +334,19 @@
         "video": [
             "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Needy Girlfriend.mp4"
         ]
+    },
+    {
+        "adsMs": false,
+        "adsVc": false,
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/wokong1.webp"
+        ],
+        "id": 29,
+        "isCelebrity": true,
+        "messenger": "Black Myth: Wukong",
+        "name": "Wukong",
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/wokong1.mp4"
+        ]
     }
 ]
